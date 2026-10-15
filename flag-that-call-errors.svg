@@ -1,0 +1,53 @@
+<svg viewBox="-23.46 -17.74 1035.90 1035.90" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Flag That Call - Errors">
+  <defs>
+    <radialGradient id="ftcBall" cx="40%" cy="35%" r="70%">
+      <stop offset="0" stop-color="#EE3A41"/>
+      <stop offset="0.6" stop-color="#C8141B"/>
+      <stop offset="1" stop-color="#8E0509"/>
+    </radialGradient>
+  </defs>
+
+  <!-- tail -->
+  <path d="M338 742 C318 788 296 818 268 850" fill="none" stroke="#E8323A" stroke-width="20" stroke-linecap="round"/>
+  <path d="M328 768 C314 792 300 810 284 830" fill="none" stroke="#F7A3A7" stroke-width="5" stroke-linecap="round" opacity="0.8"/>
+
+  <!-- ball -->
+  <circle cx="222" cy="888" r="80" fill="url(#ftcBall)"/>
+  <g fill="none" stroke="#7A0307" stroke-width="5" stroke-linecap="round" opacity="0.7">
+    <path d="M168 850 C200 862 232 860 262 836"/>
+    <path d="M160 892 C196 884 230 870 270 860"/>
+    <path d="M182 940 C206 914 236 896 290 880"/>
+    <path d="M240 958 C248 926 262 900 296 878"/>
+  </g>
+  <g fill="none" stroke="#F26A70" stroke-width="3" stroke-linecap="round" opacity="0.6">
+    <path d="M176 870 C204 876 230 872 254 858"/>
+    <path d="M196 926 C220 906 244 894 276 884"/>
+  </g>
+
+  <!-- flag body -->
+  <path d="M232 455 C235 410 290 380 370 320 C500 220 640 130 740 60 C775 45 800 80 815 110 C840 170 835 260 825 330 C820 360 800 375 790 380 C795 410 790 430 780 445 C830 470 855 530 870 560 C895 600 910 640 895 665 C880 690 840 685 800 690 C650 700 480 720 335 750 C300 700 260 640 245 590 C230 540 228 490 232 455 Z" fill="#D41E24"/>
+
+  <!-- lower right panel -->
+  <path d="M740 460 C780 445 800 450 820 480 C840 520 850 545 870 560 C900 610 905 650 885 668 C860 685 820 682 780 688 C650 700 520 715 420 730 C520 650 640 540 740 460 Z" fill="#B3181E"/>
+
+  <!-- deep fold -->
+  <path d="M335 748 C385 640 420 520 400 430 C450 330 520 270 590 230 C650 270 720 330 795 380 C790 420 770 440 740 460 C650 520 560 600 480 700 C430 715 380 732 335 748 Z" fill="#8E0509"/>
+
+  <!-- fold creases -->
+  <g fill="none" stroke="#B3181E" stroke-width="12" stroke-linecap="round">
+    <path d="M465 450 C450 530 435 590 420 640"/>
+    <path d="M610 440 C540 490 490 560 455 650"/>
+    <path d="M745 495 C650 550 580 600 520 660"/>
+  </g>
+  <path d="M700 352 C712 360 722 372 716 386 C700 392 684 392 678 386 C690 376 700 366 700 352 Z" fill="#B3181E"/>
+
+  <!-- top lobe -->
+  <path d="M598 236 C650 180 700 120 745 62 C780 50 805 85 818 120 C838 180 832 270 822 336 C790 300 720 262 598 236 Z" fill="#DA2128"/>
+  <path d="M598 236 C680 240 760 290 822 336" fill="none" stroke="#A90F15" stroke-width="8" stroke-linecap="round"/>
+  <path d="M720 75 C730 130 700 170 640 205" fill="none" stroke="#B3181E" stroke-width="10" stroke-linecap="round" opacity="0.7"/>
+
+  <!-- rim highlights -->
+  <path d="M236 450 C262 390 320 350 410 296 C520 228 640 148 735 68" fill="none" stroke="#F4454D" stroke-width="10" stroke-linecap="round" opacity="0.85"/>
+  <path d="M240 470 C262 440 280 440 300 440" fill="none" stroke="#F4454D" stroke-width="8" stroke-linecap="round" opacity="0.7"/>
+  <path d="M430 735 C580 712 720 696 880 676" fill="none" stroke="#E8232B" stroke-width="10" stroke-linecap="round"/>
+</svg>
